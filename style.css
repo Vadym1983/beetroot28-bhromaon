@@ -202,7 +202,7 @@ body {
     transform: scale(1.2);
     transition-duration: 0.5s;
     font-weight: bold;
-    color: darkblue;
+    color: aqua;
 }
 
 .nav__whatwedo {
@@ -325,6 +325,12 @@ body {
         rgb(73, 107, 254) 42%,
         rgb(84, 116, 253) 42%
     );
+}
+
+.button_standard:hover {
+    color: aqua;
+    box-shadow: 0 0 10px 10px #3b5998;
+    border-radius:30px;
 }
 
 .choose_us__pictures {
