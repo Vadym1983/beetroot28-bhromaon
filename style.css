@@ -17,7 +17,7 @@ body {
     margin-bottom: 0px;
     padding-top: 17.3%;
     padding-bottom: 142px;
-    background-image: url(/img/landskape_1.svg);
+    background-image: url(img/landskape_1.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -241,7 +241,7 @@ body {
     margin: 0 auto;
     box-sizing: border-box;
     padding-top: 183px;
-    background-image: url(/img/landskape_2.svg);
+    background-image: url(img/landskape_2.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -432,7 +432,7 @@ body {
     box-sizing: border-box;
     padding-top: 230px;
     padding-left: 18.6%;
-    background-image: url(/img/landskape_3.svg);
+    background-image: url(img/landskape_3.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -499,7 +499,7 @@ body {
     box-sizing: border-box;
     padding-top: 230px;
     padding-left: 50.9%;
-    background-image: url(/img/landskape_4.svg);
+    background-image: url(img/landskape_4.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -512,7 +512,7 @@ body {
     margin: 0 auto;
     box-sizing: border-box;
     padding-top: 128px;
-    background-image: url(/img/landskape_5.svg);
+    background-image: url(img/landskape_5.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
